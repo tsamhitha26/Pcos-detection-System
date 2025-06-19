@@ -131,9 +131,3 @@ Below are sample outputs captured from the application during runtime.
 - Tippana Samhitha – [GitHub](https://github.com/tsamhitha26)
 
 ---
-## License
-
-This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for more details.
-
----
